@@ -147,6 +147,8 @@ void assert_failed(uint8_t *file, uint32_t line)
   ![lit of](https://user-images.githubusercontent.com/118707521/227980003-3a6fb0c5-faef-47e1-8a95-54f137de2407.jpg)
 
  LED on condition
+ 
+ 
  ![lit1](https://user-images.githubusercontent.com/118707521/227980297-7f6fc4e8-e376-4f46-9c64-4e8b045f38e1.jpg)
 
  
