@@ -142,20 +142,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-  LED off condition
+  ## LED off condition
   
   ![lit of](https://user-images.githubusercontent.com/118707521/228200615-c6f93bbe-73bb-47c3-926f-dbf952dd1696.jpg)
 
  
 
- LED on condition
+## LED on condition
  
  ![lit1](https://user-images.githubusercontent.com/118707521/228200792-3b3f0d46-48a5-4724-b011-eb85b5934f8e.jpg)
 
- 
- 
-
- 
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
